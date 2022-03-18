@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "470058480142",
+    "firebase_url": "https://bzprojectfilebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bzprojectfilebase",
+    "storage_bucket": "bzprojectfilebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470058480142:android:69b7432faafae42de0c25f",
+        "android_client_info": {
+          "package_name": "io.teera.bzdev.bzfilebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470058480142-586koe6b9riolq0s32rctqrppp94c6ts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.teera.bzdev.bzfilebaseauth",
+            "certificate_hash": "fb205963fa7891a62edc68f2822b240dfb181c57"
+          }
+        },
+        {
+          "client_id": "470058480142-njtdkrcef997314lodk73e1cl5b1ornu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKpk6DtRFOTC4VpOzfRJztdhUu6nxMzdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470058480142-njtdkrcef997314lodk73e1cl5b1ornu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
